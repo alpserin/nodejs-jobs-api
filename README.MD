@@ -13,7 +13,7 @@ npm install && npm start
 
 #### API Documentation
 
-You can access the documentation from the following link. (It takes a few seconds for the service to spin up. If it doesn't open, you can try again after 5 seconds.)
+You can access the documentation from the following link. (It takes a few seconds for the service to spin up. If the page doesn't load, you can try again after 5 seconds.)
 
 https://jobs-api-gmv2.onrender.com/
 
