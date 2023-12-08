@@ -11,8 +11,8 @@ npm install && npm start
 3. Setup .env in the root
 4. Add MONGO_URI with correct value
 
-#### Email Validation Regex
+#### API Documentation
 
-```regex
-/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
-```
+You can access the documentation from the following link. (It takes a few seconds for the service to spin up. If it doesn't open, you can try again after 5 seconds.)
+
+https://jobs-api-gmv2.onrender.com/
