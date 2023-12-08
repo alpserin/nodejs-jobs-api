@@ -16,3 +16,7 @@ npm install && npm start
 You can access the documentation from the following link. (It takes a few seconds for the service to spin up. If it doesn't open, you can try again after 5 seconds.)
 
 https://jobs-api-gmv2.onrender.com/
+
+#### IMPORTANT!
+
+In order to access the /jobs route in the docs, you have to copy the token you get when you register, and Authorize from the top right corner.
